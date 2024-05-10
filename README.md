@@ -3,4 +3,5 @@ Hello World repository for Git tutorial
 This is an example repository for the Git tutorial on https://www.w3schools.com
 A new line
 and one more
+Lini in branch update-readme
 This repository is built step by step in the tutorial.
